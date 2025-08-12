@@ -10,7 +10,7 @@
 - LinkedIn: https://www.linkedin.com/in/moh-elshamy/
 - Google Scholar: https://scholar.google.com/citations?user=OIW1wDYAAAAJ&hl=en
 - ResearchGate: https://www.researchgate.net/profile/Mohamed-Elshamy-6
-- YouTube: https://www.youtube.com/@mohamedelshamy4694
+- YouTube: https://www.youtube.com/@AIPlus_ME
 - GitHub: https://github.com/MohElshamy1994
 - Email: elshamy@nmsu.edu
 
