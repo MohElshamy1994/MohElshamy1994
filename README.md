@@ -2,8 +2,8 @@
 **PhD Candidate (ECE @ NMSU)** specializing in **AI agents, hardware security for SoCs, power/thermal modeling, and TinyML**.  
 7+ years across **electronic subsystems, PCB design, firmware**, and applied ML. I build practical AI systems from **Telegram agents** to **secure multicore optimization**.
 
-- 🔬 Research: anomaly detection, adversarial tuning, RAG/Agents, thermal trojans, physics-informed models
-- 🛠️ Toolbelt: Python, PyTorch, TensorFlow, YOLO, MATLAB/Simulink, n8n, KiCad/Altium, ESP32/STM32, FPGA
+- 🔬 Research: NLP, LLM, anomaly detection, adversarial tuning, RAG/Agents, thermal trojans, physics-informed models
+- 🛠️ Toolbelt: Python, PyTorch, TensorFlow, YOLO, MATLAB/Simulink, n8n, OLLama, Hugging Face, KiCad/Altium, ESP32/STM32, FPGA
 - 🏆 Highlights: IEEE HPEC/IGSC/IPCCC papers, arXiv preprints, real-world IoT/telematics & AI camera deployments
 
 ## Follow me
