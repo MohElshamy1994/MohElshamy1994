@@ -12,7 +12,6 @@
 - ResearchGate: https://www.researchgate.net/profile/Mohamed-Elshamy-6
 - YouTube: https://www.youtube.com/@AIPlus_ME
 - GitHub: https://github.com/MohElshamy1994
-- Email: elshamy@nmsu.edu
 
 ## Open Source & Projects
 - 📁 **Data Science / AI Portfolio** — curated projects & papers → (see **Data-Science-Portfolio** repo)
