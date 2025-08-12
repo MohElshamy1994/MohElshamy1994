@@ -1,5 +1,5 @@
 # Hi, I'm Mohamed Elshamy 👋
-**PhD Candidate (ECE @ NMSU)** specializing in **AI agents, hardware security for SoCs, power/thermal modeling, and TinyML**.  
+**PhD Candidate (ECE @ NMSU)** specializing in **ML, NLP, LLM, RAG, AI agents, hardware security for SoCs, power/thermal modeling, and TinyML**.  
 7+ years across **electronic subsystems, PCB design, firmware**, and applied ML. I build practical AI systems from **Telegram agents** to **secure multicore optimization**.
 
 - 🔬 Research: NLP, LLM, anomaly detection, adversarial tuning, RAG/Agents, thermal trojans, physics-informed models
