@@ -15,7 +15,7 @@
 
 ## Open Source & Projects
 - 📁 **Data Science / AI Portfolio** — curated projects & papers → (see **Data-Science-Portfolio** repo)
-- 🤖 **Meeting Scheduler AI Agent (Telegram)** — collects details, checks calendar, emails invite (text + voice)
+- 🤖 **AI Agents** — → (see **n8n-course-Projetcs** repo)
 - 🔥 **Cluster-BPI & CPINN-ABPI** — secure power estimation & thermal-trojan defense for multicore SoCs
 - 🚗 **p-YOLOv8 Distracted Driving** — real-time driver monitoring
 - 🛜 **Telematics & IoT Systems** — vehicle trackers, data loggers, industrial IoT
@@ -24,11 +24,3 @@
 Python · PyTorch · TensorFlow · scikit-learn · YOLO · MATLAB/Simulink · n8n · Linux · C/C++ · Verilog/VHDL · ESP32/STM32 · FPGA · KiCad/Altium
 
 ---
-
-### Pinned (suggested)
-- Data-Science-Portfolio
-- AI-Agent-Scheduler-Telegram
-- CPINN-ABPI (code/experiments)
-- Cluster-BPI (code/experiments)
-- p-YOLOv8-Distracted-Driving
-- Telematics-Device / Data-Logger
