@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mohamed Elshamy 👋
+**PhD Candidate (ECE @ NMSU)** specializing in **AI agents, hardware security for SoCs, power/thermal modeling, and TinyML**.  
+7+ years across **electronic subsystems, PCB design, firmware**, and applied ML. I build practical AI systems from **Telegram agents** to **secure multicore optimization**.
 
-<!--
-**MohElshamy1994/MohElshamy1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔬 Research: anomaly detection, adversarial tuning, RAG/Agents, thermal trojans, physics-informed models
+- 🛠️ Toolbelt: Python, PyTorch, TensorFlow, YOLO, MATLAB/Simulink, n8n, KiCad/Altium, ESP32/STM32, FPGA
+- 🏆 Highlights: IEEE HPEC/IGSC/IPCCC papers, arXiv preprints, real-world IoT/telematics & AI camera deployments
 
-Here are some ideas to get you started:
+## Follow me
+- LinkedIn: https://www.linkedin.com/in/moh-elshamy/
+- Google Scholar: https://scholar.google.com/citations?user=OIW1wDYAAAAJ&hl=en
+- ResearchGate: https://www.researchgate.net/profile/Mohamed-Elshamy-6
+- YouTube: https://www.youtube.com/@mohamedelshamy4694
+- GitHub: https://github.com/MohElshamy1994
+- Email: elshamy@nmsu.edu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source & Projects
+- 📁 **Data Science / AI Portfolio** — curated projects & papers → (see **Data-Science-Portfolio** repo)
+- 🤖 **Meeting Scheduler AI Agent (Telegram)** — collects details, checks calendar, emails invite (text + voice)
+- 🔥 **Cluster-BPI & CPINN-ABPI** — secure power estimation & thermal-trojan defense for multicore SoCs
+- 🚗 **p-YOLOv8 Distracted Driving** — real-time driver monitoring
+- 🛜 **Telematics & IoT Systems** — vehicle trackers, data loggers, industrial IoT
+
+## Languages & Tools
+Python · PyTorch · TensorFlow · scikit-learn · YOLO · MATLAB/Simulink · n8n · Linux · C/C++ · Verilog/VHDL · ESP32/STM32 · FPGA · KiCad/Altium
+
+---
+
+### Pinned (suggested)
+- Data-Science-Portfolio
+- AI-Agent-Scheduler-Telegram
+- CPINN-ABPI (code/experiments)
+- Cluster-BPI (code/experiments)
+- p-YOLOv8-Distracted-Driving
+- Telematics-Device / Data-Logger
